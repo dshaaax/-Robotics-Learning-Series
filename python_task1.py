@@ -35,6 +35,7 @@ while(no_of_overs<over and your_run<=comp_score):
  ball=ball+1
 
  if runs==comp_choice:
+  
   print("total runs=",your_run,"\n")
   print("you are out","\n")
   break
